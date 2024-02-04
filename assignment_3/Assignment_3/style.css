@@ -1,0 +1,40 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.container {
+    width: 100%;
+    margin: 0;
+    display: flex;
+}
+
+.linkovi {
+    background-color: rgb(205, 225, 209);
+    width: 20%;
+}
+
+a {
+    color: black;
+}
+
+.tekst {
+    background-color: rgb(221, 219, 219);
+    width: 80%;
+    text-align: center;
+    padding: 15px;
+}
+
+p {
+    text-align: left;
+}
+
+th,
+td {
+    border: 1px solid;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
